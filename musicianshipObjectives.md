@@ -68,7 +68,7 @@ The following are objectives that each student should accomplish by the end of t
 
 ## Writing ##
 
-* Generate original thesis based on musical analysis.
+* Generate an original thesis based on musical analysis.
 * Identify and write appropriately for a target audience.
 * Construct clear linear argument in support of a thesis and devoid of unnecessary details.
 * Use musical terminology appropriately and effectively.
