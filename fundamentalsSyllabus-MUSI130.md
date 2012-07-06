@@ -2,7 +2,6 @@ latex input:		mmd-article-header
 Title: 				Introduction to Music (MUSI 130): syllabus
 Author: 			Kris P. Shaffer
 Base Header Level:	2
-Copyright:			2012 Kris P. Shaffer. This work is licensed under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/.
 latex mode:			memoir
 latex input:		mmd-article-begin-doc
 latex footer:		mmd-memoir-footer
