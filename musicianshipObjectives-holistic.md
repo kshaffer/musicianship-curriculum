@@ -10,6 +10,12 @@ The following are objectives that each student should accomplish by the end of t
 
 # Holistic #
 
+## Music and the Protestant Christian faith ##
+
+* Demonstrate an understanding of historic Protestant doctrine (as found in the *London/Charleston Baptist Confession of Faith, 1689*).
+* Articulate a Biblical perspective on the use of music in Christian worship.
+* Articulate a Biblical perspective on the use of music in the Christian's daily life.
+
 ## Transcription ##
 
 * Transcribe all vocal parts of a four-part Lutheran chorale setting.
@@ -58,8 +64,9 @@ The following are objectives that each student should accomplish by the end of t
 * Identify and label all keys, chords (with Roman numerals), embellishing tones, cadences, phrases, modules, cycles, and overall form type in a pop/rock song in AABA form.
 * Identify and label all keys, chords (with Roman numerals), embellishing tones, cadences, phrases, modules, cycles, and overall form type in a pop/rock song in verse-chorus form.
 * Identify and label all keys, chords (with Roman numerals and functional bass), embellishing tones, cadences, phrases, themes, modules, cycles, and overall formal type in an eighteenth-century keyboard minuet.
-* Identify and label all cadences, phrases, themes, modules, cycles, and overall formal type in an eighteenth-century work in sonata form.
+* Identify and label all cadences, definitive structural events (such as the MC, EEC, ESC, and Crux) phrases, themes, modules, cycles, and overall formal type in an eighteenth-century work in sonata form.
 * Identify and label all keys, chords (with Roman numerals and functional bass), embellishing tones, cadences, phrases, themes, modules, cycles, and overall formal type in a nineteenth-century German art song.
+* Explain the meaning of the text of a contemporary Christian worship song in light of Biblical doctrine and the songwriter's incorporation of melodic, harmonic, and formal structures to communicate that meaning.
 * Explain the meaning of a German Romantic poem and a nineteenth-century composer's interpretation of that poem as evidenced in the setting of that song to music.
 * Explain the idiosyncrasies of a symphonic movement in sonata form (type 3) and their significance relative to historical norms.
 * Explain the idiosyncrasies of a keyboard or chamber movement in minuet form and their significance relative to historical norms.
@@ -86,7 +93,6 @@ The following are objectives that each student should accomplish by the end of t
 * Produce an analytical reduction (bass, figures, and Roman numerals or functional bass in multiple layers) in MuseScore or another music notation application.
 * Produce a multi-layer formal timeline with cadences and annotations in Variations Audio Timeliner.
 * Install and operate necessary administrative and collaborative tools (such as DropBox, WordPress, VLC, or LearningCatalytics).
-
 
 
 
