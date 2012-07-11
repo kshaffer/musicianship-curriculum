@@ -109,7 +109,6 @@ Following is a list of specific musical skills that students are expected to mas
 * Write minor scales on the treble, alto, and bass staves.
 * Identify chromatic scales on the treble, alto, and bass staves.
 * Write chromatic scales on the treble, alto, and bass staves.
-
 * Draw treble, alto, and bass clefs.
 * Identify standard meters by ear from recording (simple and compound; duple, triple, and quadruple meters).
 * Identify bar-long rhythmic patterns by ear from piano performance (durations from bar-length to division-length).
@@ -199,7 +198,6 @@ Following is a list of specific musical skills that students are expected to mas
 ### Required ###
 
 * Karpinski, Gary. *Manual for Ear Training and Sight Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397663-2.
-
 * Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.
 
 ### Recommended, but not required ###
