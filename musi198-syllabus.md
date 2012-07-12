@@ -74,6 +74,8 @@ Following is a list of specific musical skills that students are expected to mas
 * Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
 * Write constructive critical responses to classmates' writings on music.
 * Respond to or revise an analytical writing based on comments received from readers.
+* Demonstrate working knowledge of copyright and intellectual property law.
+* Demonstrate awareness of open/closed access issues, and license all blog posts with an appropriate license in light of that knowledge.
 
 ### Software and technology ###
 
@@ -188,6 +190,7 @@ Following is a list of specific musical skills that students are expected to mas
 * Regularly read and comment on classmates' blogs.
 * Regularly respond to comments left on blog.
 * Occasionally revise a writing based on comments received (at least three times per semester).
+* Maintain a public Twitter account, link to blog posts with course hashtag, and follow classmates (in all sections).
 
 ### Software and technology ###
 
