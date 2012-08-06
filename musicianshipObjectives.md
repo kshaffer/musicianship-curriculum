@@ -665,4 +665,4 @@ The following objectives represent the lower-level knowledge and skills students
 
 ## Licensing ##
 
-This work is copyright ©2012 by Kris P. Shaffer and is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/.Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/.
+This work is copyright ©2012 by Kris P. Shaffer and is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/.Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/.
