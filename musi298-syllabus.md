@@ -77,7 +77,7 @@ Following is a list of specific musical skills that students are expected to mas
 
 ### Performance ###
 
-* Sing from sight any vocal part from a four-part Lutheran chorale.
+See content objectives.
 
 
 ### Analysis ###
