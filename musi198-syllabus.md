@@ -13,6 +13,7 @@ latex footer:		mmd-memoir-footer
 
 > Course title: Musicianship I  
 Course number: MUSI 198  
+Course hashtag: #musi198  
 Semester: Fall 2012  
 Meeting time (section 1): MWF 8:00am–8:50am and TT 8:00am–9:20am  
 Meeting time (section 2): MWF 10:00am–10:50am and TT 11:00am–12:20pm  
@@ -187,7 +188,7 @@ Following is a list of specific musical skills that students are expected to mas
 ### Writing ###
 
 * Maintain a public blog and post writings on music regularly (at least ten times per semester).
-* Regularly read and comment on classmates' blogs.
+* Regularly read and comment on classmates' blogs (at least fifteen meaningful comments per semester).
 * Regularly respond to comments left on blog.
 * Occasionally revise a writing based on comments received (at least three times per semester).
 * Maintain a public Twitter account, link to blog posts with course hashtag, and follow classmates (in all sections).
