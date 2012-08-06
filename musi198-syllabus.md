@@ -253,4 +253,4 @@ Group study is acceptable and encouraged in this class. However, all assignments
 
 # Licensing #
 
-(c) 2012 Kris P. Shaffer. This work is licensed under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/.
+This work is copyright ©2012 by Kris P. Shaffer and is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/.Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/.
