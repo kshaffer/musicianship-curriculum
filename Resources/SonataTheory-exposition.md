@@ -20,7 +20,7 @@ In a typical sonata movement, this rotation, and the correlative harmonic scheme
 
 Such a structure is called a *two-part* exposition, because the medial caesura divides the exposition into half.
 
-<iframe src="http://player.vimeo.com/video/53382539?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/53382539?badge=0" width="500" height="281" alt="video from http://player.vimeo.com/video/53382539?badge=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 *A sample two-part exposition: W.A. Mozart, Sonata for piano in B-flat major, K. 333*
 
