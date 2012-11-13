@@ -17,7 +17,7 @@ Course hashtag: #musi198
 Semester: Fall 2012  
 Meeting time (section 1): MWF 8:00am–8:50am and TT 8:00am–9:20am  
 Meeting time (section 2): MWF 10:00am–10:50am and TT 11:00am–12:20pm  
-Meeting location: Whittington Hall, room 107  
+Meeting location: Whittington Hall, room 109  
 Professor: Kris Shaffer, Ph.D.
 
 # Course sequence overview #
@@ -53,34 +53,35 @@ Following is a list of specific musical skills that students are expected to mas
 
 *Holistic* objectives are high-level units of knowledge and skills students are expected to master by the end of the semester. All read as "I can . . ." statements.
 
-### Music and the Protestant Christian faith ###
+### Dictation and transcription ###
 
-* Articulate a Biblical perspective on the use of music in Christian worship.
+* Transcribe the vocal melody (no background vocals) and bass line (no other instruments) of a pop/rock or contemporary Christian worship song.
 
-### Dictation ###
+Each of the following must be met consistently upon hearing melodies four times in a row, with no preparation of key, meter, or tempo.
 
-* Dictate a four-bar-long, diatonic, non-modulating melody or bass line after a single hearing.
+* Dictate a four-bar melody (in standard notation) in major in any standard simple meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
+* Dictate a four-bar melody (in standard notation) in minor in any standard simple meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
+* Dictate a four-bar melody (in standard notation) in major in any standard compound meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
+* Dictate a four-bar melody (in standard notation) in minor in any standard compound meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
 
 ### Performance ###
 
 * Sing 4-bar melody from standard musical notation in any major key that starts and ends on *do*; moves in all stepwise motion or leaps between members of the tonic, subdominant, or dominant triad; and contains rhythmic durations from the bar length to the division length.
 * Sing 4-bar melody from standard musical notation in any minor key that starts and ends on *do*; moves in all stepwise motion or leaps between members of the tonic, subdominant, or dominant triad; and contains rhythmic durations from the bar length to the division length.
 
+### Software and technology ###
+
+* Install and operate necessary administrative and collaborative tools (such as DropBox, WordPress, VLC, or LearningCatalytics).
+
 ### Writing ###
 
-* Generate an original thesis based on musical analysis.
+* Articulate a Biblical perspective on the use of music in Christian worship.
+* Generate an original thesis based on evidence.
 * Identify and write appropriately for a target audience.
 * Construct clear linear argument in support of a thesis and devoid of unnecessary details.
 * Use musical terminology appropriately and effectively.
 * Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
 * Write constructive critical responses to classmates' writings on music.
-* Respond to or revise an analytical writing based on comments received from readers.
-* Demonstrate working knowledge of copyright and intellectual property law.
-* Demonstrate awareness of open/closed access issues, and license all blog posts with an appropriate license in light of that knowledge.
-
-### Software and technology ###
-
-* Install and operate necessary administrative and collaborative tools (such as DropBox, WordPress, VLC, or LearningCatalytics).
 
 
 ## Content objectives ##
@@ -134,6 +135,8 @@ Following is a list of specific musical skills that students are expected to mas
 
 ### Dictation ###
 
+Each of the following must be met consistently upon hearing melodies three times in a row, with no preparation of key, meter, or tempo.
+
 * Dictate the pitches (in solfège) of a four-bar melody in major in all stepwise motion that ends on *do*.
 * Dictate the pitches (in solfège) of a four-bar melody in minor in all stepwise motion that ends on *do*.
 * Dictate the pitches (in solfège) of a four-bar melody in major in all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
@@ -143,22 +146,15 @@ Following is a list of specific musical skills that students are expected to mas
 * Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat division and a bar length, in any standard compound meter.
 * Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat sub-division and a bar length, in any standard simple meter.
 * Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat sub-division and a bar length, in any standard compound meter.
-* Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat division and a bar length, or one-beat triplets, in any standard simple meter.
-* Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat division and a bar length, or half-beat or two-beat triplets, in any standard simple meter.
-* Dictate the rhythm (in protonotation) of a four-bar melody that contains durations between a beat division and a bar length, or half-beat or two-beat triplets, in any standard compound meter.
+* Dictate the rhythm (in standard notation) of a four-bar melody that contains durations between a beat and a bar length, in any standard meter.
+* Dictate the rhythm (in standard notation) of a four-bar melody that contains durations between a beat division and a bar length, in any standard simple meter.
+* Dictate the rhythm (in standard notation) of a four-bar melody that contains durations between a beat division and a bar length, in any standard compound meter.
+* Dictate the rhythm (in standard notation) of a four-bar melody that contains durations between a beat sub-division and a bar length, in any standard simple meter.
+* Dictate the rhythm (in standard notation) of a four-bar melody that contains durations between a beat sub-division and a bar length, in any standard compound meter.
 * Dictate a four-bar melody (in protonotation) in major in any standard simple meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
 * Dictate a four-bar melody (in protonotation) in minor in any standard simple meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
 * Dictate a four-bar melody (in protonotation) in major in any standard compound meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
 * Dictate a four-bar melody (in protonotation) in minor in any standard compound meter, with all stepwise motion, or with leaps between members of the tonic triad, that ends on *do*.
-* Dictate a four-bar diatonic melody in simple or compound meter from two hearings.
-* Dictate a four-bar diatonic melody in simple or compound meter from a single hearing.
-* Dictate rhythm with beat-level syncopations.
-* Dictate rhythm with division-level syncopations.
-* Dictate rhythm with subdivision-level syncopations.
-* Dictate melody with beat-level syncopations.
-* Dictate melody with division-level syncopations.
-* Dictate melody with subdivision-level syncopations.
-* Dictate the bass line to a five-to-eight-chord diatonic keyboard progression after a single hearing.
 
 ### Performance ###
 
@@ -187,11 +183,13 @@ Following is a list of specific musical skills that students are expected to mas
 
 ### Writing ###
 
-* Maintain a public blog and post writings on music regularly (at least ten times per semester).
-* Regularly read and comment on classmates' blogs (at least fifteen meaningful comments per semester).
+* Maintain a public blog and post writings on music regularly (at least six times per semester, including at least four original posts, for a 3; one additional post or revision for a 4).
+* Regularly read and comment on classmates' blogs (twelve meaningful comments for a 4; ten for a 3).
 * Regularly respond to comments left on blog.
-* Occasionally revise a writing based on comments received (at least three times per semester).
-* Maintain a public Twitter account, link to blog posts with course hashtag, and follow classmates (in all sections).
+* Occasionally revise a writing based on comments received (at least two substantial revisions for a 4; one substantial and one minor for a 3).
+* Maintain a *public* Twitter account, link to all blog posts with course hashtag, and either follow all classmates or check the course hashtag daily.
+* Demonstrate working knowledge of copyright and intellectual property law (assessed via a written or verbal explanation of blog license choice).
+* Demonstrate awareness of open/closed access issues, and license all blog posts with an appropriate license in light of that knowledge.
 
 ### Software and technology ###
 
@@ -211,11 +209,9 @@ Following is a list of specific musical skills that students are expected to mas
 
 # Assessment #
 
-There are 107 course objectives listed above. 12 are holistic, 95 content, in a total of six categories. Fundamentals and technology assessments have two possible results: *pass* or *fail*. All other categories will be assessed on a four-point scale: 4 = *mastery*, 3 = *passing*, 2 = *progressing but not passing*, 1 = *failing*, and 0 = *not attempted*.
+Fundamentals and technology assessments have two possible results: *pass* or *fail*. All other categories will be assessed on a four-point scale: 4 = *mastery*, 3 = *passing*, 2 = *progressing but not passing*, 1 = *failing*, and 0 = *not attempted*.
 
-The faith objective will be assessed through the student's blog posts, comments, and revisions. To pass the faith objective, a student must perform up to standard on a single assessment *and continue to perform up to standard on subsequent assessments that include related material*.
-
-Writing objectives will all be assessed through the student's blog posts, comments, and revisions. To pass a writing objective, a student must perform up to standard on two assessments for the same objective in a row *and continue to perform up to standard on subsequent assessments that include related material*.
+Writing objectives will all be assessed through the student's blog posts, comments, and revisions. To pass a *content* writing objective, a student must meet the requirements listed above for that specific objective. To pass the *holistic* writing objectives (except for the one relating specifically to comments), a student must submit a portfolio of blog posts (minimum of two). Any objective met by all posts in the portfolio will be considered *passing*. New or revised posts can be submitted later in order to fulfill remaining objectives; however, those new posts must also meet the objectives already passed in order to retain a passing mark for that category. In other words, the *last two posts submitted* must meet all objectives in order to pass all objectives for the semester. The holistic writing objective "write constructive critical responses to classmates' writings on music" will be evaluated in terms of comments left on classmates' blogs. Students can choose five comments they would like to be evaluated for this objective, at least three of which must come after midterm (October 5). If a student does not choose comments for evaluation, I will evaluate the five most recent comments as of the last day of classes. Students are strongly encouraged to submit a blog portfolio well in advance of the end of the semester in case significant revisions are necessary.
 
 Fundamentals objectives will be assessed through in-class timed quizzes. We will have at least one quiz per class meeting until all diligent students have met those objectives. To pass a fundamentals objective, a student must perform up to standard on a single quiz.
 
@@ -232,7 +228,7 @@ There is no final exam.
 
 # Final grades #
 
-To pass the course (grade of C), a student must receive passing assessments for all fundamentals objectives, and at least 75% of the objectives *in every other category*.
+To pass the course (grade of C), a student must attempt assessments for all course objectives, receive passing assessments for all fundamentals objectives, and receive passing assessments for at least 75% of the objectives *in every other category*.
 
 For a final grade of B, a student must receive passing assessments for all objectives. 
 

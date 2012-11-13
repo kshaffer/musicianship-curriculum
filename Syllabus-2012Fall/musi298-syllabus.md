@@ -16,7 +16,7 @@ Course number: MUSI 298
 Course hashtag: #musi298  
 Semester: Fall 2012  
 Meeting time: MWF 9:00am–8:50am and TT 9:30am–10:50am  
-Meeting location: Whittington Hall, room 107  
+Meeting location: Whittington Hall, room 109  
 Professor: Kris Shaffer, Ph.D.
 
 # Course sequence overview #
@@ -52,28 +52,6 @@ Following is a list of specific musical skills that students are expected to mas
 
 *Holistic* objectives are high-level units of knowledge and skills students are expected to master by the end of the semester. All read as "I can . . ." statements.
 
-### Music and the Protestant Christian faith ###
-
-* Articulate a Biblical perspective on the use of music in the Christian's daily life.
-
-### Transcription ###
-
-* Transcribe all vocal parts of a four-part Lutheran chorale setting.
-* Transcribe the slow movement of an 18th-century sonata-style piece for string quartet.
-
-
-### Dictation ###
-
-* Dictate a four-bar-long, diatonic, non-modulating melody or bass line after a single hearing.
-* Dictate a two-bar-long, non-modulating melody or bass line containing tonal chromatic elements after a single hearing.
-
-
-### Aural recognition ###
-
-* List all cadences, modules, and larger "action spaces" (with starting times) in a symphonic movement in sonata form, after three hearings without a score.
-* List all cadences, modules, and larger "action spaces" (with starting times) in a keyboard or chamber movement in minuet form, after three hearings without a score.
-* Identify *galant* schemata in eighteenth-century keyboard music after two hearings without a score.
-
 
 ### Performance ###
 
@@ -84,27 +62,27 @@ See content objectives.
 
 * Identify and label all keys, chords (with Roman numerals and functional bass), embellishing tones, cadences, phrases, themes, modules, cycles, and overall formal type in an eighteenth-century keyboard minuet.
 * Identify and label all cadences, definitive structural events (such as the MC, EEC, ESC, and Crux) phrases, themes, modules, cycles, and overall formal type in an eighteenth-century work in sonata form.
-* Explain the idiosyncrasies of a symphonic movement in sonata form (type 3) and their significance relative to historical norms.
-* Explain the idiosyncrasies of a keyboard or chamber movement in minuet form and their significance relative to historical norms.
-
-
-### Writing ###
-
-* Generate an original thesis based on musical analysis.
-* Identify and write appropriately for a target audience.
-* Construct clear linear argument in support of a thesis and devoid of unnecessary details.
-* Use musical terminology appropriately and effectively.
-* Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
-* Write constructive critical responses to classmates' writings on music.
-* Respond to or revise an analytical writing based on comments received from readers.
-* Demonstrate working knowledge of copyright and intellectual property law.
-* Demonstrate awareness of open/closed access issues, and license all blog posts with an appropriate license in light of that knowledge.
+* List all cadences, modules, and larger "action spaces" (with starting times) in a symphonic movement in sonata form, after three hearings without a score.
+* List all cadences, modules, and larger "action spaces" (with starting times) in a keyboard or chamber movement in minuet form, after three hearings without a score.
+* Identify *galant* schemata in eighteenth-century keyboard music after two hearings without a score.
 
 
 ### Software and technology ###
 
 * Install and operate necessary administrative and collaborative tools (such as DropBox, WordPress, VLC, or LearningCatalytics).
 * Produce a chamber score (e.g., string quartet) in MuseScore or another music notation application.
+
+
+### Writing ###
+
+* Explain the idiosyncrasies of a symphonic movement in sonata form (type 3) and their significance relative to historical norms.
+* Articulate a Biblical perspective on the use of music in the Christian's daily life.
+* Generate an original thesis based on musical analysis.
+* Identify and write appropriately for a target audience.
+* Construct clear linear argument in support of a thesis and devoid of unnecessary details.
+* Use musical terminology appropriately and effectively.
+* Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
+* Write constructive critical responses to classmates' writings on music.
 
 
 ## Content objectives ##
@@ -126,54 +104,22 @@ See content objectives.
 * Provide the uninterpreted *functional bass* symbol (function and bass scale degree) of an applied chord within a key (Quinn, Ch. 10).
 
 
-### Transcription ###
-
-> Optional shorter exercises. Otherwise, see holistic transcription projects.
-
-
-### Dictation ###
-
-* Dictate a four-bar diatonic melody in simple or compound meter from two hearings.
-* Dictate a four-bar diatonic melody in simple or compound meter from a single hearing.
-* Dictate rhythm with beat-level syncopations.
-* Dictate rhythm with division-level syncopations.
-* Dictate rhythm with subdivision-level syncopations.
-* Dictate melody with beat-level syncopations.
-* Dictate melody with division-level syncopations.
-* Dictate melody with subdivision-level syncopations.
-* Dictate the bass line to a five-to-eight-chord diatonic keyboard progression after a single hearing.
-* Dictate the bass line to a five-to-eight-chord diatonic keyboard progression with altered subdominant chords after a single hearing.
-* Determine the appropriate thoroughbass figures for a given five-to-eight-chord diatonic unfigured bass line with altered subdominant chords after a single hearing.
-* Dictate the bass line to a five-to-eight-chord diatonic keyboard progression with applied chords after a single hearing.
-* Determine the appropriate thoroughbass figures for a given five-to-eight-chord diatonic unfigured bass line with applied chords after a single hearing.
-* Dictate the bass line to a five-to-eight-chord diatonic keyboard progression with applied and altered subdominant chords after a single hearing.
-* Determine the appropriate thoroughbass figures for a given five-to-eight-chord diatonic unfigured bass line with applied and altered subdominant chords after a single hearing.
-* Dictate a four-bar diatonic melody with chromatic elements in simple or compound meter after two hearings.
-
-
-### Aural recognition ###
+### Analysis ###
 
 * Recognize a *sentence* form in a theme from a classical keyboard, chamber, or symphonic work after two hearings.
 * Recognize a *period* form in a theme from a classical keyboard, chamber, or symphonic work after two hearings.
 * Recognize a *compound theme* form in a theme from a classical keyboard, chamber, or symphonic work after two hearings.
 * Recognize a *hybrid theme* form in a theme from a classical keyboard, chamber, or symphonic work after two hearings.
-* Recognize diatonic harmonic sequences and types after a single hearing.
 
 
 ### Performance ###
 
-* Sing 4-bar melody from standard musical notation in any major key that starts and ends on *do*, moves in all stepwise motion or leaps between members of the tonic triad (*do*, *mi*, *sol*), and contains rhythmic durations from the bar length to the division length.
-* Sing 4-bar melody from standard musical notation in any minor key that starts and ends on *do*, moves in all stepwise motion or leaps between members of the tonic triad (*do*, *me*, *sol*), and contains rhythmic durations from the bar length to the division length.
+* Sing and play 4-bar melody from standard musical notation in any major key that starts and ends on *do*, moves in all stepwise motion or leaps between members of the tonic triad (*do*, *mi*, *sol*), and contains rhythmic durations from the bar length to the division length.
+* Sing and play 4-bar melody from standard musical notation in any minor key that starts and ends on *do*, moves in all stepwise motion or leaps between members of the tonic triad (*do*, *me*, *sol*), and contains rhythmic durations from the bar length to the division length.
 * Sing Karpinski's major-key harmonic sequential (p. 146).
 * Convert to minor and sing Karpinski's harmonic sequential (p. 146).
 * Sing a four-bar melody from standard musical notation in any major key, in any standard meter, with any idiomatic diatonic elements, and with chromatic elements as neighbor tones.
 * Sing a four-bar melody from standard musical notation in any minor key, in any standard meter, with any idiomatic diatonic elements, and with chromatic elements as neighbor tones.
-* Sing rhythm with beat-level syncopations.
-* Sing rhythm with division-level syncopations.
-* Sing rhythm with subdivision-level syncopations.
-* Sing melody with beat-level syncopations.
-* Sing melody with division-level syncopations.
-* Sing melody with subdivision-level syncopations.
 * From a figured bass line, sing an arpeggiation of each chord in succession.
 * From a Roman numeral w/figures line, sing an arpeggiation of each chord in succession.
 * Sing arpeggiations of root-position dominant, major, minor, half-diminished, and diminished seventh chords on the treble, alto, and bass staves.
@@ -196,11 +142,14 @@ See content objectives.
 
 ### Writing ###
 
-* Maintain a public blog and post writings on music regularly (at least ten times per semester).
-* Regularly read and comment on classmates' blogs (at least fifteen meaningful comments per semester).
+* Maintain a public blog and post writings on music regularly (at least six times per semester, including at least four original posts, for a 3; one additional post or revision for a 4).
+* Regularly read and comment on classmates' blogs (twelve meaningful comments for a 4; ten for a 3).
 * Regularly respond to comments left on blog.
-* Occasionally revise a writing based on comments received (at least three times per semester).
-* Maintain a public Twitter account, link to blog posts with course hashtag, and follow classmates (in all sections).
+* Occasionally revise a writing based on comments received (at least two substantial revisions for a 4; one substantial and one minor for a 3).
+* Maintain a *public* Twitter account, link to all blog posts with course hashtag, and either follow all classmates or check the course hashtag daily.
+* Demonstrate working knowledge of copyright and intellectual property law (assessed via a written or verbal explanation of blog license choice).
+* Demonstrate awareness of open/closed access issues, and license all blog posts with an appropriate license in light of that knowledge.
+
 
 ### Software and technology ###
 
@@ -224,21 +173,15 @@ See content objectives.
 
 # Assessment #
 
-There are 88 course objectives listed above. 22 are holistic, 66 content, in a total of nine categories. Fundamentals and technology assessments have two possible results: *pass* or *fail*. All other categories will be assessed on a four-point scale: 4 = *mastery*, 3 = *passing*, 2 = *progressing but not passing*, 1 = *failing*, and 0 = *not attempted*.
+Fundamentals and technology assessments have two possible results: *pass* or *fail*. All other categories will be assessed on a four-point scale: 4 = *mastery*, 3 = *passing*, 2 = *progressing but not passing*, 1 = *failing*, and 0 = *not attempted*.
 
 Fundamentals objectives will be assessed through in-class timed quizzes. To pass a fundamentals objective, a student must perform up to standard on a single quiz.
 
-The faith objective will be assessed through the student's blog posts, comments, and revisions. To pass the faith objective, a student must perform up to standard on a single assessment *and continue to perform up to standard on subsequent assessments that include related material*.
-
-Transcription objectives will be assessed through projects conducted with music notation software and submitted online. To pass a transcription objective, a student must perform up to standard on a single assessment selected by the student and deemed appropriate by the instructor.
-
-Dictation objectives will be assessed through in-class exercises. To pass a dictation objective, a student must perform up to standard on two assessments for the same objective in a row *and continue to perform up to standard on subsequent assessments that include related material*.
-
 Performance objectives will be assessed through private singing or playing exams conducted during class. To pass a performance objective, a student must perform up to standard on a single exam *and continue to perform up to standard on subsequent assessments that include related material*.
 
-Analysis objectives will all be assessed through the student's blog posts, comments, and revisions, or through assignments performed in music notation or analysis software and submitted online. To pass an analysis objective, a student must perform up to standard on two assessments for the same objective in a row *and continue to perform up to standard on subsequent assessments that include related material*.
+Analysis objectives will all be assessed through tasks performed in class or assignments performed in music notation or analysis software and submitted online. To pass an analysis objective, a student must perform up to standard on one in-class test or two take-home assessments for the same objective in a row *and continue to perform up to standard on subsequent assessments that include related material*.
 
-Writing objectives will all be assessed through the student's blog posts, comments, and revisions. To pass a writing objective, a student must perform up to standard on two assessments for the same objective in a row *and continue to perform up to standard on subsequent assessments that include related material*.
+Writing objectives will all be assessed through the student's blog posts, comments, and revisions. To pass a *content* writing objective, a student must meet the requirements listed above for that specific objective. To pass the *holistic* writing objectives (except for the one relating specifically to comments), a student must submit a portfolio of blog posts (minimum of two). Any objective met by all posts in the portfolio will be considered *passing*. New or revised posts can be submitted later in order to fulfill remaining objectives; however, those new posts must also meet the objectives already passed in order to retain a passing mark for that category. In other words, the *last two posts submitted* must meet all objectives in order to pass all objectives for the semester. The holistic writing objective "write constructive critical responses to classmates' writings on music" will be evaluated in terms of comments left on classmates' blogs. Students can choose five comments they would like to be evaluated for this objective, at least three of which must come after midterm (October 5). If a student does not choose comments for evaluation, I will evaluate the five most recent comments as of the last day of classes. Students are strongly encouraged to submit a blog portfolio well in advance of the end of the semester in case significant revisions are necessary.
 
 The technology objectives will be assessed through assignments submitted online. To pass a technology objective, a student must perform up to standard on a single assessment *and continue to perform up to standard on subsequent assessments that include related material*.
 
