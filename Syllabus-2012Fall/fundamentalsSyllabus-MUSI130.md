@@ -102,6 +102,4 @@ In accordance with CSU's Academic Integrity Policy (see 2011–2012 Student Hand
 
 Group study is acceptable and encouraged in this class. However, all assignments—unless I announce otherwise—are to be completed by individuals, and are to be the original work of those individuals. It is fine for classmates to check each other's work for errors, train each other's ears, and discuss potential solutions to sticky musical situations with one another; however copying, working off of another's work, or producing a "joint solution" are unacceptable. The instructor reserves the right to assign a grade of zero to any assignment that is completed dishonestly, fail the student for the course, and/or proceed with completion of the university Academic Violation Form. (See 2011–2012 *Student Handbook* for complete Academic Integrity Policy.)
 
-# Licensing #
-
-(c) 2012 Kris P. Shaffer. This work is licensed under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is copyright 2012 Kris Shaffer and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
