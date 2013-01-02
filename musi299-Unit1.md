@@ -74,7 +74,7 @@ Grades for this criterion will be assigned according to the following rubric.
 
 ### Harmonic listening ###
 
-The objective for harmonic listening is for all students to listen to a phrase-long chord progression and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
+The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes chromatic chords and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
 
 Since there are four elements, grades will be determined by the number of elements a student can reliably dictate after three or four hearings.
 
