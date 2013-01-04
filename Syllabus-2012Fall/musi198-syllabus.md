@@ -1,11 +1,11 @@
-latex input:		mmd-article-header
-Title: 				Musicianship I (MUSI 198)
-Subtitle: 			Syllabus
-Author: 			Kris P. Shaffer
+latex input:	mmd-article-header
+Title:	Musicianship I (MUSI 198)
+Subtitle:	Syllabus
+Author:	Kris P. Shaffer
 Base Header Level:	2
-latex mode:			memoir
-latex input:		mmd-article-begin-doc
-latex footer:		mmd-memoir-footer
+latex mode:	memoir
+latex input:	mmd-article-begin-doc
+latex footer:	mmd-memoir-footer
 
 
 

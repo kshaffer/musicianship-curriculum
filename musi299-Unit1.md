@@ -42,7 +42,7 @@ Your grade for this criterion will simply be the number of these objectives you 
 
 The objective for this topic of study is to cap our study of harmonic syntax in tonal music, with each student able to perform an accurate thoroughbass reduction of a piece of music that involves diatonic and chromatic elements, modal mixture, and modulation.
 
-Grades for this criterion will be assigned according to the following rubric.
+Grades for this criterion will be assigned according to the following rubric, primarily in light of both a German art song analysis project. Harmonic analyses of dictation passages will also contribute to this assessment.
 
 *Mastery (4)* – Student can produce a thoroughbass reduction (bass and figures) of a German art song, with a functional bass analysis *and* a Roman numeral analysis, with all modulations labeled by type, typeset in music notation software with minimal errors.
 
@@ -59,36 +59,54 @@ Grades for this criterion will be assigned according to the following rubric.
 
 The objective for this category is for each student to be able to sing from sight a melody in any standard key or meter that includes standard chromatic figures and/or modulates to a closely related key.
 
-Grades for this criterion will be assigned according to the following rubric.
+Melodies will be categorized according to the criteria listed below. Students must demonstrate the ability to perform melodies consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
 
-*Mastery (4)* – Student can sing, with minimal errors, from sight a 4–8-bar-long melody in any standard key or meter that includes standard chromatic figures and/or modulates to a closely related key.
+Level 0: Melodies in any key (major or minor) and any standard meter (simple or compound) comprised of diatonic pitches, rhythmic durations from bar length to subdivision length, with dotted and tied rhythms, and with mild syncopation. (Many students will carry this level over from Aural Skills II.)
 
-*Working knowledge (3)* – Student can sing, with moderate errors, from sight a 4–8-bar-long melody in any standard key or meter that includes standard chromatic figures and/or modulates to a closely related key.
+Level 1: Melodies with characteristics of level 0, with chromatic passing tones and chromatic complete neighbor tones.
 
-*Incomplete knowledge (2)* – Student has working knowledge or mastery level ability for either chromatics or modulation, but significant trouble with the other.
+Level 2: Melodies with characteristics of level 1, with chromatic incomplete neighbor tones.
 
-*Poor knowledge (1)* – Student has significant difficulty with chromatics and modulation, or noticeable difficulty with rhythm or diatonic elements.
+Level 3: Melodies with characteristics of level 2, with arpeggiations of applied chords and chromatic subdominant chords.
 
-*No significant attempt made (0)* – Student does not assess this objective or performs below passing level for Aural Skills II.
+Level 4: Melodies with characteristics of level 3, that modulate to closely related keys.
 
 
 ### Harmonic listening ###
 
 The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes chromatic chords and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
 
-Since there are four elements, grades will be determined by the number of elements a student can reliably dictate after three or four hearings.
+Passages will be categorized according to the criteria listed below. Students must demonstrate the ability to dictate all four elements consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
 
-*Mastery (4)* – Student can dictate all four elements with minimal errors after three or four hearings.
+Level 0: Passages containing only diatonic chords.
 
-*Working knowledge (3)* – Student can dictate three elements with minimal errors, or two elements with minimal errors and two elements with moderate errors. *Or* student can reliably perform at *mastery* level, but only with more than four hearings.
+Level 1: Passages containing diatonic chords and chromatic subdominants.
 
-*Incomplete knowledge (2)* – Student can dictate two elements with minimal errors, or one with minimal errors and two with moderate errors. *Or* student can perform at *working knowledge* level, but only with more than four hearings.
+Level 2: Passages containing diatonic chords, chromatic subdominants, and/or D7/x applied chords.
 
-*Poor knowledge (1)* – Student can dictate one element with minimal errors, or two with moderate errors. *Or* student can perform at *incomplete knowledge* level, but only with more than four hearings.
+Level 3: Passages containing diatonic chords, chromatic subdominants, and D7/x and/or D4/x applied chords.
 
-*No significant attempt made (0)* – Student does not assess this objective or performs below passing level for Aural Skills II.
+Level 4: Passages containing all types of diatonic, chromatic subdominant, and applied chords.
 
+### Writing about music ###
 
+Generally, writing will be assessed according to following five criteria:
+
+* Identify and write appropriately for a target audience.
+* Generate an original thesis based on evidence (that is, your analysis).
+* Construct clear linear argument in support of a thesis and devoid of unnecessary details.
+* Use musical terminology appropriately and effectively.
+* Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
+
+For each written work (there is one at the end of Unit I), you will receive a grade on the standard four-point scale equal to the number of these criteria you satisfy by the deadline, minus one. (I.e., fulfill all five and get a grade of 4; fulfill three and get a grade of 2; etc.)
+
+There will be three written assignments during the semester. You will be allowed to reassess *one* of those papers after its deadline. At the end of the term, your median grade will be your final grade for this category. 
+
+**Exceptions**: If any of your papers at the end of the semester stand at a 0 or a 1, you cannot receive a final *writing about music* grade higher than a 2, no matter how solid your other papers are. Likewise, if any of your papers at the end of the semester stand at a 2, you cannot receive a final *writing about music* grade higher than a 3. (In other words, a final grade of 4 is reserved for those with three passing papers.)
+
+### Technology ###
+
+Work in this category is on-going throughout the semester, so no grade will be given at the end of Unit I. However, students are expected to produce their reduction/analysis in music notation software. The accuracy and cleanness of that will be considered toward the final grade in this category.
 
 
 # License #

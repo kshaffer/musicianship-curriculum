@@ -1,6 +1,6 @@
 latex input:	mmd-article-header
 Title:	Musicianship IV (MUSI 299)
-Subtitle:	Overview and mastery objectives
+Subtitle:	Syllabus
 Author:	Kris P. Shaffer
 Base Header Level:	2
 latex mode:	memoir
@@ -17,7 +17,7 @@ Course hashtag: #musi299
 Meeting time: MWF 9:00am–9:50am and TT 9:30am–10:50am  
 Meeting location: Whittington Hall, room 109  
 Professor: Kris Shaffer, Ph.D. (WT 109a)  
-Course website:  
+Course website: [http://csutheory.shaffermusic.com/musi299][musi299]  
 Online course resources: [http://kshaffer.github.com/musicianshipResources][musicianship]  
 
 # Course sequence overview #
@@ -132,3 +132,4 @@ This work is copyright 2013 Kris Shaffer and licensed under a [Creative Commons 
 [CCBYSA-imageweb]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 [CCBYSA-text]: http://creativecommons.org/licenses/by-sa/3.0/
 [musicianship]: http://kshaffer.github.com/musicianshipResources
+[musi299]: http://csutheory.shaffermusic.com/musi299

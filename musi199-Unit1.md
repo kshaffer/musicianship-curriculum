@@ -32,14 +32,14 @@ Work for each topic of study will be evaluated on a four-point scale: *mastery* 
 
 Our study of strict voice-leading follows a sequence of six stages. Each stage must be satisfactorily completed before moving to the next. The stages are:
 
-- Types of motion  
+- Fundamentals: types of motion and consonance/dissonance  
 - *Cantus firmus* composition  
 - First-species counterpoint (in two voices)  
 - Second-species counterpoint (in two voices)  
 - Third-species counterpoint (in two voices)  
 - Fourth-species counterpoint (in two voices)
 
-To pass the *types of motion* stage, a student must demonstrate the ability to identify similar, parallel, contrary, and oblique motion between two voices in a score.
+To pass the *types of motion* stage, a student must demonstrate the ability to identify similar, parallel, contrary, and oblique motion between two voices in a score, as well as identify any interval as a perfect consonance, imperfect consonance, or dissonance (for melodic and harmonic intervals).
 
 To pass the *cantus firmus composition* stage, a student must demonstrate the ability to *compose* and *sing* a cantus firmus (short, arhythmic melody) that exhibits the characteristics outlined on the [Musicianship Resources][musicianship] website.
 
@@ -52,17 +52,17 @@ Final assessments for this category will simply reflect the last species satisfa
 
 The goal for this unit is for students to be able to perform a rhythm from sight, in any standard meter, with durations between the bar length and the subdivision length, with both straight and syncopated rhythms.
 
-Final grades for this category will be assigned according to the progress students have made towards this goal by the performance exam deadline, according to the following rubric.
+Rhythmic lines will be categorized according to the criteria listed below. Students must demonstrate the ability to perform rhythms consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
 
-*Mastery (4)* – Student can perform a 4–8-bar-long rhythmic line from sight while conducting, with minimal errors, containing straight and/or syncopated rhythms at the beat and/or division levels in simple or compound meter.
+Level 0: Rhythmic lines in any standard meter (simple or compound) with durations between the division level and the bar level, with tied and dotted rhythms, no syncopation. (Most students will carry over this proficiency from Musicianship I.)
 
-*Working knowledge (3)* – Student can perform a 4–8-bar-long rhythmic line from sight while conducting, with minimal errors, containing straight rhythms at the beat, division, and subdivision level, and with syncopated rhythms at the beat level in simple or compound meter.
+Level 1: Rhythmic lines with level 1 characteristics, but introducing beat-level syncopations in simple meter.
 
-*Incomplete knowledge (2)* – Student can perform a 4–8-bar-long rhythmic line, with minimal–moderate errors, containing straight rhythms at the beat, division, and subdivision levels in simple or compound meter.
+Level 2: Rhythmic lines with level 2 characteristics, but introducing beat-level syncopations in compound meter.
 
-*Poor knowledge (1)* – Anything short of the above standards.
+Level 3: Rhythmic lines with level 3 characteristics, but introducing division-level syncopations in simple meter.
 
-*No significant attempt made (0)* – Student does not assess this category, or performs below the standard for passing Musicianship I.
+Level 4: Rhythmic lines with level 4 characteristics, but introducing division-level syncopations in compound meter.
 
 
 ### Transcription ###
@@ -80,6 +80,10 @@ Final grades for this category will be assigned according to the progress studen
 *Poor knowledge (1)* – Student demonstrates significant difficulties with one or both genres.
 
 *No significant attempt made (0)* – Student does not assess this category, or performs below the standard for passing Musicianship I.
+
+### Technology ###
+
+During Unit I, student will be expected to demonstrate an ability to produce counterpoint exercises and bass-line transcriptions in a music notation application. Since this category is on-going, and will not be complete until the end of the term, no grade will be assigned at the end of Unit I.
 
 
 # License #
